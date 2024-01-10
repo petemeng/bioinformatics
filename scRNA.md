@@ -9,6 +9,7 @@
 5. [scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes)
 6. [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 7. [GPU-Accelerated Single-Cell RNA Analysis with RAPIDS-singlecell](https://developer.nvidia.com/blog/gpu-accelerated-single-cell-rna-analysis-with-rapids-singlecell/) GPU加速
+8. [cellranger官方资料](https://www.10xgenomics.com/cn/support/software/cell-ranger/latest/tutorials/cr-tutorial-ct) 
 
 ### Paper
 1. [Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00344-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193131282300344X%3Fshowall%3Dtrue#) 植物-真菌感染
