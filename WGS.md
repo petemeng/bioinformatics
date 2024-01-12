@@ -16,6 +16,10 @@
 - 群体遗传学分析：研究不同人群或物种中的遗传变异。ADMIXTURE, STRUCTURE, PHYLIP
 - 功能注释和通路分析：DAVID, GOrilla, KEGG PATHWAY
 
+
+### 植物WGS
+- [组装叶绿体基因组软件](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02153-6#Sec18)
+
 #### SNV
 - GATK
 > GATK中包含MNV
