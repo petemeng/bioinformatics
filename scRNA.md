@@ -16,3 +16,6 @@
 1. [Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00344-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193131282300344X%3Fshowall%3Dtrue#) 植物-真菌感染
 3. [Accelerating single-cell genomic analysis with GPUs](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.full) GPU加速单细胞数据分析
 
+
+### 数据库
+- [Arabidopsis thaliana: root](https://bioit3.irc.ugent.be/plant-sc-atlas/root/download)  拟南芥根部
