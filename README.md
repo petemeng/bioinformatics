@@ -5,3 +5,4 @@ bioinformatics for peter
 - [WARP (WDL Analysis Research Pipelines) repository](https://broadinstitute.github.io/warp/docs/get-started/)
 - [nf-core:nextflow](https://github.com/nf-core)
 - https://omicstutorials.com/
+- [cwl仓库](https://github.com/datirium/workflows/tree/master)
