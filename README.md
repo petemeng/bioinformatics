@@ -6,3 +6,7 @@ bioinformatics for peter
 - [nf-core:nextflow](https://github.com/nf-core)
 - https://omicstutorials.com/
 - [cwl仓库](https://github.com/datirium/workflows/tree/master)
+- [workflowhub](https://workflowhub.eu/)
+- [biowdl](https://biowdl.github.io/)
+- [Cumulus workflows overview](https://cumulus.readthedocs.io/en/stable/workflow_overview/index.html)
+- [encode-wdl-pipeline](https://dockstore.org/organizations/ENCODEDCC/collections/Pipelines)
