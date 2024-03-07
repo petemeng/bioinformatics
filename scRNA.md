@@ -18,6 +18,7 @@
 14. [Basics of Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/3.13/OSCA.basic/quality-control.html#common-choices-of-qc-metrics)
 15. https://hds-sandbox.github.io/AdvancedSingleCell/
 16. https://www.earlham.ac.uk/
+17. [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
 
 ### Paper
 1. [Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00344-X?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193131282300344X%3Fshowall%3Dtrue#) 植物-真菌感染
