@@ -25,6 +25,7 @@
 3. [Accelerating single-cell genomic analysis with GPUs](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.full) GPU加速单细胞数据分析
 4. [使用高通量单细胞 RNA 测序揭示拟南芥根的时空发育轨迹](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30145-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580719301455%3Fshowall%3Dtrue#secsectitle0085)
 5. [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9#code-availability)
+6. [使用空间和单细胞技术了解植物病原体相互作用](https://www.nature.com/articles/s42003-023-05156-8)
 
 
 ### 数据库
