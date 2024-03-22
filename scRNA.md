@@ -45,9 +45,8 @@
 
 
 ### Cluster
-- [MultiK：一种用于确定单细胞 RNA 测序数据中最佳簇数的自动化工具](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02445-5
-        
-        )
+- [使用 Seurat 进行 countsplit 来找到最佳簇数](https://github.com/anna-neufeld/countsplit/issues/8) Tommy推荐
+- [MultiK：一种用于确定单细胞 RNA 测序数据中最佳簇数的自动化工具](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02445-5)
 - [Cytocipher - detection of significantly different cell populations in scRNA-seq](https://github.com/BradBalderson/Cytocipher)
 - [scRNAseq clustering significance test](https://divingintogeneticsandgenomics.com/post/scrnaseq-clustering-significant-test-an-unsolvable-problem/)
 - [icking optimal resolution for single cell in seurat pipeline](https://www.biostars.org/p/9576814/#9576818)
