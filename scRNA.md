@@ -19,10 +19,11 @@
 15. https://hds-sandbox.github.io/AdvancedSingleCell/
 16. https://www.earlham.ac.uk/
 17. [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
+18. [In-depth-NGS-Data-Analysis-Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course/blob/master/sessionIV/schedule/README.md)
 
 ### Paper
 1. [Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00344-X?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193131282300344X%3Fshowall%3Dtrue#) 植物-真菌感染，有代码
-3. [Accelerating single-cell genomic analysis with GPUs](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.full ) GPU加速单细胞数据分析
+3. [Accelerating single-cell genomic analysis with GPUs](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.full) GPU加速单细胞数据分析
 4. [使用高通量单细胞 RNA 测序揭示拟南芥根的时空发育轨迹](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30145-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580719301455%3Fshowall%3Dtrue#secsectitle0085)
 5. [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9#code-availability)
 6. [使用空间和单细胞技术了解植物病原体相互作用](https://www.nature.com/articles/s42003-023-05156-8) 很不错为文献
@@ -44,7 +45,9 @@
 
 
 ### Cluster
-- [MultiK：一种用于确定单细胞 RNA 测序数据中最佳簇数的自动化工具](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02445-5)
+- [MultiK：一种用于确定单细胞 RNA 测序数据中最佳簇数的自动化工具](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02445-5
+        
+        )
 - [Cytocipher - detection of significantly different cell populations in scRNA-seq](https://github.com/BradBalderson/Cytocipher)
 - [scRNAseq clustering significance test](https://divingintogeneticsandgenomics.com/post/scrnaseq-clustering-significant-test-an-unsolvable-problem/)
 - [icking optimal resolution for single cell in seurat pipeline](https://www.biostars.org/p/9576814/#9576818)
