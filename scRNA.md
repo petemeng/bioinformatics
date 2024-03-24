@@ -44,6 +44,8 @@
 
 ### Annotation
 - [singleR](https://bioconductor.org/books/release/SingleRBook/sc-mode.html)
+- [Garnett](https://cole-trapnell-lab.github.io/garnett/)
+- [Capybara: A computational tool to measure cell identity and fate transitions](https://github.com/morris-lab/Capybara)
 
 
 ### Cluster
