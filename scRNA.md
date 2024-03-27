@@ -16,7 +16,7 @@
 12. [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/3.12/OSCA/)
 13. [Advanced Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/3.14/OSCA.advanced/index.html)
 14. [Basics of Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/3.13/OSCA.basic/quality-control.html#common-choices-of-qc-metrics)
-15. https://hds-sandbox.github.io/AdvancedSingleCell/
+15. https://hds-sandbox.github.io/AdvancedSingleCell/   四个莲花样本（两个感染根瘤菌和两个野生型）
 16. https://www.earlham.ac.uk/
 17. [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers)
 18. [In-depth-NGS-Data-Analysis-Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course/blob/master/sessionIV/schedule/README.md)
