@@ -60,6 +60,7 @@
 
 ### Cluster
 - [使用 Seurat 进行 countsplit 来找到最佳簇数](https://github.com/anna-neufeld/countsplit/issues/8) Tommy推荐
+- [callback: Calibrated clustering via knockoffs for single-cell genomics](https://github.com/lcrawlab/callback)   Tommy写的[博客](https://divingintogeneticsandgenomics.com/post/fine-tune-the-best-clustering-resolution-for-scrnaseq-data-trying-out-callback/?ck_subscriber_id=2509370120&utm_source=convertkit&utm_medium=email&utm_campaign=can%20you%20determine%20the%20best%20resolution%20for%20scRNAseq%20clustering?%20%20-%2013493703) 寻找最佳聚类数
 - [MultiK：一种用于确定单细胞 RNA 测序数据中最佳簇数的自动化工具](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02445-5)
 - [Cytocipher - detection of significantly different cell populations in scRNA-seq](https://github.com/BradBalderson/Cytocipher)
 - [scRNAseq clustering significance test](https://divingintogeneticsandgenomics.com/post/scrnaseq-clustering-significant-test-an-unsolvable-problem/)
