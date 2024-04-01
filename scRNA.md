@@ -53,6 +53,7 @@
 
 ### Annotation
 - [singleR](https://bioconductor.org/books/release/SingleRBook/sc-mode.html)
+- [GPTCelltype: Automatic cell type annotation with GPT-4](https://github.com/Winnie09/GPTCelltype)
 - [Garnett](https://cole-trapnell-lab.github.io/garnett/)
 - [Capybara: A computational tool to measure cell identity and fate transitions](https://github.com/morris-lab/Capybara)
 - [Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods](https://www.nature.com/articles/s41596-021-00534-0) Nature protocols
