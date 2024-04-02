@@ -75,3 +75,6 @@
 - [Trajectory inference](https://biocellgen-public.svi.edu.au/mig_2019_scrnaseq-workshop/trajectory-inference.html)
 
 
+### Cell communication analysis
+- [CellphoneDB](https://github.com/ventolab/CellphoneDB)
+- [cellchat](https://uci-genpals.github.io/signaling/2021/02/23/cellchat.html)
