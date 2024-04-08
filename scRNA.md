@@ -77,6 +77,7 @@
 ### Pseudotime
 - [Monocle](https://cole-trapnell-lab.github.io/monocle-release/)
 - [Trajectory inference](https://biocellgen-public.svi.edu.au/mig_2019_scrnaseq-workshop/trajectory-inference.html)
+- [Single-cell RNA-seq pseudotime estimation algorithms](https://github.com/agitter/single-cell-pseudotime) An overview of algorithms for estimating pseudotime in single-cell RNA-seq data
 
 
 ### Cell communication analysis
