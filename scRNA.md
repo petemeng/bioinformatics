@@ -35,11 +35,7 @@
 6. [使用空间和单细胞技术了解植物病原体相互作用](https://www.nature.com/articles/s42003-023-05156-8) 很不错为文献
 7. [单细胞拟南芥根图谱揭示了野生型和细胞身份突变体的发育轨迹](https://www.cell.com/developmental-cell/fulltext/S1534-5807(22)00033-8?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580722000338%3Fshowall%3Dtrue#secsectitle0010) 有代码
 8. [根韧皮部极细胞图谱揭示了原韧皮部相邻细胞中常见的转录状态](https://www.nature.com/articles/s41477-022-01178-y#code-availability) 有代码
-9. [Time-resolved single-cell and spatial gene regulatory atlas of plants under pathogen attack](https://www.biorxiv.org/content/10.1101/2023.04.10.536170v2.full
-        
-        
-        
-        ) 有代码
+9. [Time-resolved single-cell and spatial gene regulatory atlas of plants under pathogen attack](https://www.biorxiv.org/content/10.1101/2023.04.10.536170v2.full) 有代码
 10. [拟南芥叶对丁香假单胞菌感染的单细胞分析](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00687-3?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124723006873%3Fshowall%3Dtrue#sectitle0035) 有代码
 11. [跨模式单细胞分析的最佳实践](https://www.nature.com/articles/s41576-023-00586-w)
 12. [Understanding plant pathogen interactions using spatial and single-cell technologies](https://www.nature.com/articles/s42003-023-05156-8) NC
@@ -73,6 +69,10 @@
 - [Finding optimal cluster resolution in Seurat](https://github.com/satijalab/seurat/issues/1565)  seurat官方issues
 - [使用基于子采样的稳健性指标选择单细胞聚类参数值](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-03957-4) paper
 - [In-depth-NGS-Data-Analysis-Course](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/SC_clustering_analysis.html)
+
+
+### Differential expression
+- [scde](https://github.com/hms-dbmi/scde) R package for analyzing single-cell RNA-seq data
 
 ### Pseudotime
 - [Monocle](https://cole-trapnell-lab.github.io/monocle-release/)
