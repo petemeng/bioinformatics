@@ -42,6 +42,9 @@
 12. [Understanding plant pathogen interactions using spatial and single-cell technologies](https://www.nature.com/articles/s42003-023-05156-8) NC
 
 
+### 测试数据集
+- [scRNAseq dataset collection](https://bioconductor.org/packages/release/data/experiment/vignettes/scRNAseq/inst/doc/scRNAseq.html)
+
 ### 数据库
 - [Arabidopsis thaliana: root](https://bioit3.irc.ugent.be/plant-sc-atlas/root/download)  拟南芥根部
 
