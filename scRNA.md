@@ -85,6 +85,7 @@
 - [cellchat](https://uci-genpals.github.io/signaling/2021/02/23/cellchat.html)
 - [Deciphering plant cell–cell communications using single-cell omics data](https://www.csbj.org/article/S2001-0370(23)00229-5/fulltext)
 - [can we use CellChat for species except human and mouse? ](https://github.com/sqjin/CellChat/issues/38)
+- [PlantPhoneDB](https://github.com/Jasonxu0109/PlantPhoneDB?tab=readme-ov-file)A manually curated pan-plant database of ligand-receptor pairs infers cell-cell communication
 
 
 
