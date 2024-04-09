@@ -47,6 +47,14 @@
 
 ### 数据库
 - [Arabidopsis thaliana: root](https://bioit3.irc.ugent.be/plant-sc-atlas/root/download)  拟南芥根部
+- [scplantdb](https://biobigdata.nju.edu.cn/scplantdb/home) scPlantDB，它是一个植物细胞图谱和标记的综合数据库。scPlantDB 收录了 17 个植物物种的 67 个高质量数据集的单细胞转录组数据。
+- [Plant Single Cell Hub](http://jinlab.hzau.edu.cn/PsctH/) Plant Single Cell Hub(PsctH)是由华中农业大学棉花遗传改良团队开发的植物单细胞综合数据库，旨在提供全面准确的不同植物不同组织各种细胞类型的细胞标记资源和分析流程。Plant Single Cell Hub 除了分享植物单细胞研究相关的方法和文献，还提供了一个植物标记基因数据库，其中所有的 Marker 基因都通过 RNA 原位杂交或 GFP 报告基因得到了证实。
+- [PlantCellMarker](https://www.tobaccodb.org/pcmdb/homePage) PCMDB（Plant Cell Marker Data Base）是一个植物细胞 marker 数据库。PCMDB 收录了六种常见模式植物(拟南芥、水稻、玉米、大豆、番茄和烟草)的三种不同类型的细胞标记，包括实验验证的标记基因（3119 个），基于 Bulk RNA-seq 数据的差异表达标记基因（40625个），以及通过 scRNA-seq 鉴定的特定细胞间的差异表达基因（46915 个）。
+- [plantscrnadb](http://ibi.zju.edu.cn/plantscrnadb/)
+- [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) SCEA (Single Cell Expression Atlas)，即欧洲 EMBL-EBI 数据库的子数据库，当前包 21 个物种，含 355 个 scRNA-seq 实验（experiments），总计 10,505,726 个细胞的单细胞转录组数据。我们可以根据物种、实验设计等下载相应的数据集。
+- [PlantPhoneDB](https://jasonxu.shinyapps.io/PlantPhoneDB/) PlantPhoneDB 是一个手工整理的关于细胞通讯的植物配受体数据库，收录了拟南、水稻、番茄、玉米和杨树五个物种的大量高可信度配受体对数据。此外，研究团队也开发了相应的R 包（PlantPhoneDB），可用于细胞通讯分析和可视化。
+
+
 
 
 ### QC
