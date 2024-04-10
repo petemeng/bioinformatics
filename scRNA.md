@@ -25,7 +25,7 @@
 21. [刘小乐生信教程](https://liulab-dfci.github.io/bioinfo-combio/)
 22. https://rockefelleruniversity.github.io/scRNA-seq/
 23. [剑桥大学，不同条件下比较](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021/)
-24. [北大Yuting Liu](https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/)
+24. [北大Yuting Liu](https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/) DEG 拟时序分析 SCENIC都有具体的分析，不错的资料
 25. https://omicverse.readthedocs.io/en/latest/Installation_guild/
 
 ### Paper
