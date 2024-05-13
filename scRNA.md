@@ -99,7 +99,8 @@
 - [can we use CellChat for species except human and mouse? ](https://github.com/sqjin/CellChat/issues/38)
 - [PlantPhoneDB](https://github.com/Jasonxu0109/PlantPhoneDB?tab=readme-ov-file)A manually curated pan-plant database of ligand-receptor pairs infers cell-cell communication
 
-
+### WGCNA
+- [hdWGCNA](https://smorabit.github.io/hdWGCNA/articles/basic_tutorial.html)
 
 ### 可视化
 - [scCustomize:R package with collection of functions created and/or curated to aid in the visualization and analysis of single-cell data using R](https://github.com/samuel-marsh/scCustomize)
