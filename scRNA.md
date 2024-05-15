@@ -86,6 +86,11 @@
 ### Differential expression
 - [scde](https://github.com/hms-dbmi/scde) R package for analyzing single-cell RNA-seq data
 
+### RNA velocity
+- https://www.nature.com/articles/s41586-018-0414-6
+- [scvelo](https://github.com/theislab/scvelo)
+- 
+
 ### Pseudotime
 - [Monocle](https://cole-trapnell-lab.github.io/monocle-release/)
 - [Trajectory inference](https://biocellgen-public.svi.edu.au/mig_2019_scrnaseq-workshop/trajectory-inference.html)
