@@ -27,6 +27,7 @@
 23. [剑桥大学，不同条件下比较](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021/)
 24. [北大Yuting Liu](https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/) DEG 拟时序分析 SCENIC都有具体的分析，不错的资料
 25. https://omicverse.readthedocs.io/en/latest/Installation_guild/
+26. https://romanhaa.github.io/projects/scrnaseq_workflow/
 
 ### Paper
 1. [Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00344-X?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193131282300344X%3Fshowall%3Dtrue#) 植物-真菌感染，有代码
