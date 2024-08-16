@@ -3,6 +3,7 @@ bioinformatics for peter
 
 ### 学习资源
 - https://docs.cloud.sdu.dk/Apps/genomics.html  里面有很多组学的资源，很新，很细
+- https://astrobiomike.github.io/all_tutorials/  里面有很多组学的详细教程，还不错
 - [WARP (WDL Analysis Research Pipelines) repository](https://broadinstitute.github.io/warp/docs/get-started/)
 - [nf-core:nextflow](https://github.com/nf-core)
 - https://omicstutorials.com/
