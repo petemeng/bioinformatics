@@ -31,13 +31,17 @@
 
 ### Paper
 1. [Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00344-X?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193131282300344X%3Fshowall%3Dtrue#) 植物-真菌感染，有代码
-3. [Accelerating single-cell genomic analysis with GPUs](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.full) GPU加速单细胞数据分析
+3. [Accelerating single-cell genomic analysis with GPUs](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.full
+        
+        ) GPU加速单细胞数据分析
 4. [使用高通量单细胞 RNA 测序揭示拟南芥根的时空发育轨迹](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30145-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580719301455%3Fshowall%3Dtrue#secsectitle0085)
 5. [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9#code-availability)
 6. [使用空间和单细胞技术了解植物病原体相互作用](https://www.nature.com/articles/s42003-023-05156-8) 很不错为文献
 7. [单细胞拟南芥根图谱揭示了野生型和细胞身份突变体的发育轨迹](https://www.cell.com/developmental-cell/fulltext/S1534-5807(22)00033-8?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580722000338%3Fshowall%3Dtrue#secsectitle0010) 有代码
 8. [根韧皮部极细胞图谱揭示了原韧皮部相邻细胞中常见的转录状态](https://www.nature.com/articles/s41477-022-01178-y#code-availability) 有代码
-9. [Time-resolved single-cell and spatial gene regulatory atlas of plants under pathogen attack](https://www.biorxiv.org/content/10.1101/2023.04.10.536170v2.full) 有代码
+9. [Time-resolved single-cell and spatial gene regulatory atlas of plants under pathogen attack](https://www.biorxiv.org/content/10.1101/2023.04.10.536170v2.full
+        
+        ) 有代码
 10. [拟南芥叶对丁香假单胞菌感染的单细胞分析](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00687-3?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124723006873%3Fshowall%3Dtrue#sectitle0035) 有代码
 11. [跨模式单细胞分析的最佳实践](https://www.nature.com/articles/s41576-023-00586-w)
 12. [Understanding plant pathogen interactions using spatial and single-cell technologies](https://www.nature.com/articles/s42003-023-05156-8) NC
@@ -74,6 +78,7 @@
 
 ### Cluster
 - [使用 Seurat 进行 countsplit 来找到最佳簇数](https://github.com/anna-neufeld/countsplit/issues/8) Tommy推荐
+- [CHOIR](https://www.nature.com/articles/s41588-025-02148-8#code-availability) Nature Genetics
 - https://anna-neufeld.github.io/countsplit.tutorials/articles/Seurat_stability_demonstration.html
 - [callback: Calibrated clustering via knockoffs for single-cell genomics](https://github.com/lcrawlab/callback)   Tommy写的[博客](https://divingintogeneticsandgenomics.com/post/fine-tune-the-best-clustering-resolution-for-scrnaseq-data-trying-out-callback/?ck_subscriber_id=2509370120&utm_source=convertkit&utm_medium=email&utm_campaign=can%20you%20determine%20the%20best%20resolution%20for%20scRNAseq%20clustering?%20%20-%2013493703) 寻找最佳聚类数
 - [MultiK：一种用于确定单细胞 RNA 测序数据中最佳簇数的自动化工具](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02445-5)
@@ -91,7 +96,6 @@
 ### RNA velocity
 - https://www.nature.com/articles/s41586-018-0414-6
 - [scvelo](https://github.com/theislab/scvelo)
-- 
 
 ### Pseudotime
 - [Monocle](https://cole-trapnell-lab.github.io/monocle-release/)
